@@ -1,5 +1,4 @@
-﻿using Project.Extensions;
-using Project.Models.Binance;
+﻿using Project.Models.Binance;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
