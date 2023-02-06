@@ -1,2 +1,3 @@
-# Binance-API-Wrapper
-Simple wrapper for Binance API
+# Simple Binance API Wrapper
+
+This is a simple wrapper for Binance API using C#.
